@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<pessoas>
+	<pessoa>
+		<id>3</id>
+		<nome>João Guilherme Borges De Azevedo </nome>
+		<curso>Sistemas de informações </curso>
+		<telefone>(86) 998224838</telefone>
+		<email>joaoguilherme3457@gmail.com</email>
+		<periodo>3</periodo>
+	</pessoa>
+	<pessoa>
+		<id>4</id>
+		<nome>Teste</nome>
+		<curso>Sistemas de Informação</curso>
+		<telefone>123467855</telefone>
+		<email>teste@gmail.com</email>
+		<periodo>5</periodo>
+	</pessoa>
+	<pessoa>
+		<id>5</id>
+		<nome>teste 2</nome>
+		<curso>sistemas de informação</curso>
+		<telefone>123456789</telefone>
+		<email>teste2email@gmail.com</email>
+		<periodo>4</periodo>
+	</pessoa>
+	<pessoa>
+		<id>6</id>
+		<nome>Teste</nome>
+		<curso>sistemas de informação</curso>
+		<telefone>12345795</telefone>
+		<email>teste@gmail.com</email>
+		<periodo>5</periodo>
+	</pessoa>
+</pessoas>
